@@ -399,4 +399,63 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+
+.site-header {
+  background-color: #010032;
+}
+
+.site-header-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 28px 0 23px;
+}
+
+.site-header-links a {
+  color: #fff;
+}
+
+.site-header-cart-link {
+  font-size: 16px;
+  line-height: 19px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: url(../img/Frame.svg) center no-repeat;
+  background-position: right center;
+  padding-right: 35px;
+}
+
+.site-header-hero-wrapper {
+  padding: 100px 0 50px;
+}
+
+.sitenav-header-main-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.sitenav__link {
+  font-size: 15px;
+  line-height: 19px;
+}
+
+.sitenav__link:hover {
+  color: gold;
+}
 /*# sourceMappingURL=main.css.map */
