@@ -1,0 +1,52 @@
+.site-header {
+  background-color: #010032;
+}
+
+.site-header-wrapper {}
+
+.site-header-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 28px 0 23px;
+}
+
+.site-header-links a {
+  color: #fff;
+}
+
+.site-logo-link {}
+
+.site-logo-icon {}
+
+.site-header-cart-link {
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  background: url(../img/Frame.svg) center no-repeat;
+  background-position: right center;
+  padding-right: 35px;
+}
+
+.site-header-hero-wrapper {
+  padding: 100px 0 50px;
+}
+
+.site-header-hero-info-box {}
+
+.site-header-hero-heading {}
+
+.site-header-hero-text {}
+
+.site-header-hero-message-link {}
+
+.site-header-hero-important-day-box {}
+
+.cup-icon {}
+
+.site-header-hero-important-day-text-box {}
+
+.site-header-hero-important-day-text-title {}
+
+.site-header-hero-important-day-text {}

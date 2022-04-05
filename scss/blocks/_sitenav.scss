@@ -1,0 +1,16 @@
+.sitenav-header-main-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+
+}
+
+.sitenav__link {
+  font-size: 15px;
+  line-height: 19px;
+
+  &:hover{
+    color: gold;
+  }
+}
